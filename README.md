@@ -1,6 +1,6 @@
 # Python-With-Python
 
-<i><h3>This repository contains EXE file of Python's Corona game</h3></i>
+<i><h3>This repository contains EXE file of Python With Python game</h3></i>
 
 <h4>Just Download EXE File Others Are Not Necessary</h4>
 
